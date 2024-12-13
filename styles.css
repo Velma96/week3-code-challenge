@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+  
+  #movie-details {
+    flex: 3;
+    display: flex;
+  }
+  
+  #movie-poster {
+    max-width: 300px;
+    margin-right: 1rem;
+  }
+  
+  #movie-info {
+    flex: 1;
+  }
+  
+  aside {
+    flex: 1;
+    border-left: 1px solid #ddd;
+    padding-left: 1rem;
+  }
+  
+  ul#films {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul#films .film-item {
+    cursor: pointer;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  ul#films .film-item.sold-out {
+    color: red;
+  }
+  
+  ul#films .film-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
