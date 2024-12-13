@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const movieDescription = document.getElementById("movie-description");
     const buyTicketButton = document.getElementById("buy-ticket");
   
-    const API_URL = "http://localhost:3000/films";
+    const API_URL = "http://localhost:3001/films";
   
     // Fetch and display the movie list
     fetch(API_URL)
