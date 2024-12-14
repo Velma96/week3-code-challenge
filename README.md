@@ -60,7 +60,7 @@ Flatdango is a movie ticket purchasing application that allows users to browse a
 
 3. Start the JSON Server:
    ```bash
-   json-server --watch db.json --port 3000
+   json-server --watch db.json --port 3001
    ```
 
 4. Open `index.html` in a browser to run the application.
@@ -103,7 +103,7 @@ The default poster image (`default-poster.jpg`) is used when a movie poster URL 
 To customize the appearance, modify the `styles.css` file.
 
 ### API Configuration
-The base URL for the JSON Server API is set to `http://localhost:3000/films`. To change it, update the `API_URL` variable in `app.js`.
+The base URL for the JSON Server API is set to `http://localhost:3001/films`. To change it, update the `API_URL` variable in `app.js`.
 
 ---
 ## Future Enhancements
