@@ -1,6 +1,6 @@
-# Flatdango
+# Movie Swift
 
-Flatdango is a movie ticket purchasing application that allows users to browse available movies, view detailed information about each movie, and purchase tickets.
+Movie Swift is a movie ticket purchasing application that allows users to browse available movies, view detailed information about each movie, and purchase tickets.
 
 ---
 ## Table of Contents
