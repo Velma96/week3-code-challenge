@@ -68,7 +68,7 @@ Movie Swift is a movie ticket purchasing application that allows users to browse
 ## Project Structure
 
 ```bash
-flatdango/
+MovieSwift/
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS for styling
 ├── app.js           # JavaScript for functionality
