@@ -117,8 +117,7 @@ The base URL for the JSON Server API is set to `http://localhost:3001/films`. To
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
 ---
-
-Enjoy using Flatdango! If you have any feedback or questions, feel free to contribute or reach out.
+ If you have any feedback or questions, feel free to contribute or reach out.
 ## Contact Information
 
 - *Name*: Phoebe Velma Awuor
