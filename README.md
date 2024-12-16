@@ -49,8 +49,8 @@ Movie Swift is a movie ticket purchasing application that allows users to browse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flatdango.git
-   cd flatdango
+   git clone https://github.com/your-username/week3-code-challenge.git
+   cd week3-code-challenge
    ```
 
 2. Install JSON Server if not already installed:
